@@ -1,15 +1,15 @@
----
-name: 'New package: '
-about: Suggest a new package
-title: ''
-labels: ''
-assignees: ''
+---------------------
+* [ ] Source code is fully open source
+* [ ] Source code is rolling release
+* [ ] This is a other distributon package
+---------------------
 
----
-
-Source code :
-License : 
-Pspec :
-Dependencies :
-
-Description:
+### Link to the source code:
+### Link to the pspec:
+### License :
+### Category:
+### Summary:
+### Description:
+### Dependencies:
+### Current Version:
+---------------------
